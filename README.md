@@ -62,6 +62,8 @@ student-score-predictor/
 - Improve accuracy
 - Deploy online
 
+> Note: This project is for learning Machine Learning concepts and should not be used for real-world student evaluation.
+
 ## Author
 Pratyush Mishra
 
