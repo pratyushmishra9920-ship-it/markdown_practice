@@ -59,7 +59,7 @@ student-score-predictor/
 - [ ] Deploy Project
 
 ## Changes 
-- ~~Manual score prediction~~ -> ML-based score prediction
+- ~~Manual score prediction~~ → ML-based score prediction
 
 ## Future Improvements
 - Add a Streamlit web app
