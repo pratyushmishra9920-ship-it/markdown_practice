@@ -13,8 +13,8 @@ LoanApprovalPrediction/
 ```
 
 
-```text
-├──   More items follow
-└──   Last item
+
+├──   More items follow ..
+└──   Last item ..
 │      Continue the vertical branch
-```
+
