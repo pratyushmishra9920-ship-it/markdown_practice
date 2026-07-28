@@ -1,7 +1,7 @@
 # Your Markdown Challenge 🚀
 
 ## Project Details
-**Project Name**: Student Score Predictor
+**Project Name:** Student Score Predictor
 
 ## Description
 A machine learning project that predicts a student's exam score based on study hours.
