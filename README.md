@@ -19,6 +19,14 @@ A machine learning project that predicts a student's exam score based on study h
 - Scikit-learn
 - Matplotlib
 
+| Library | Purpose |
+|---------|---------|
+| Python | Core programming language used to build the application. |
+| Pandas | Load, clean, manipulate, and analyze data. |
+| NumPy | Perform numerical computations and work with arrays. |
+| Scikit-learn | Train and evaluate machine learning models. |
+| Matplotlib | Create data visualizations and plots. |
+
 ## Installation
 1. Clone the repository.
 2. Install the dependencies.
