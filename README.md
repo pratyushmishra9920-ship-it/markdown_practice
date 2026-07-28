@@ -14,7 +14,7 @@ LoanApprovalPrediction/
 
 
 
-├──   More items follow..
-└──   Last item..
+├──   More items follow   <br>
+└──   Last item  <br>
 │      Continue the vertical branch
 
