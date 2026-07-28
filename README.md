@@ -20,11 +20,9 @@ A machine learning project that predicts a student's exam score based on study h
 - Matplotlib
 
 ## Installation
-Clone the repository.
-
-Install the dependencies.
-
-Run the Python file.
+1. Clone the repository.
+2. Install the dependencies.
+3. Run the Python file.
 
 ## Usage 
 Predict the score by providing the number of study hours.
