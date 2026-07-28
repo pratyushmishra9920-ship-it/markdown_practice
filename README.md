@@ -11,3 +11,9 @@ LoanApprovalPrediction/
     ├── requirements.txt
     └── main.py
 ```
+
+
+
+├──   # More items follow
+└──   # Last item
+│      # Continue the vertical branch
