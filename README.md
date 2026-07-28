@@ -56,7 +56,10 @@ student-score-predictor/
 - [x] Dataset Prepared
 - [x] Model Trained
 - [ ] Streamlit web app
-- [ ] Deploy Project 
+- [ ] Deploy Project
+
+## Changes 
+- ~~Manual score prediction~~ -> ML-based score prediction
 
 ## Future Improvements
 - Add a Streamlit web app
