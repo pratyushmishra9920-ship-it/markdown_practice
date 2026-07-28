@@ -13,11 +13,6 @@ A machine learning project that predicts a student's exam score based on study h
 - Beginner-friendly
 
 ## Tech Stack
-- Python
-- Pandas
-- Numpy
-- Scikit-learn
-- Matplotlib
 
 | Library | Purpose |
 |---------|---------|
@@ -56,6 +51,12 @@ student-score-predictor/
 ├── requirements.txt
 └── README.md
 ```
+
+## Project Status
+- [x] Dataset Prepared
+- [x] Model Trained
+- [ ] Streamlit web app
+- [ ] Deploy Project 
 
 ## Future Improvements
 - Add a Streamlit web app
